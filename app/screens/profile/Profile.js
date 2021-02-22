@@ -111,6 +111,7 @@ export default function Profile({route, navigation}) {
                 alignItems:'center',
                 backgroundColor:'transparent',
                 flex:1,
+                backgroundColor:'white',
                 paddingVertical:5,
                 borderColor: '#3489eb',
                 borderWidth: 1,
